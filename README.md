@@ -6,8 +6,8 @@
  2. Клонировать репозиторий TXT на локальный компьютер
 - `git clone https://github.com/mstepanova1/Github_HW_1_TXT.git`
 
- 3. Внутри локального TXT создать файл “new.txt”
-- `cd Github_HW_1_TXT`
+ 3. Внутри локального TXT создать файл “new.txt”  
+- `cd Github_HW_1_TXT`  
 - `touch new.txt`
 
  4. Добавить файл под гит
